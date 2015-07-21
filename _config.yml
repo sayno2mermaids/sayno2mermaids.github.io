@@ -16,7 +16,7 @@ git: "https://github.com/sayno2mermaids"  #Add your github url here.
 disqus:
     shortname: "test" #replace with your disqus comment short name
 
-google analytics
+#google analytics
 google:
     #tracking-id: "" #paste your tracking id here
 gems:
