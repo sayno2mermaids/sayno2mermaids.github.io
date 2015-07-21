@@ -1,4 +1,4 @@
-baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+baseurl: "sayno2mermaids.github.io" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "sayno2mermaids.github.io" # the base hostname & protocol for your site.
 title: "Hello There"
 
@@ -12,12 +12,12 @@ git: "https://github.com/sayno2mermaids"  #Add your github url here.
 #stackoverflow: "" #Add your stackoverflow url here.
 #twitter: ""  #Add your twitter url here.
 
-#disqus comment
-#disqus:
+disqus comment
+disqus:
     shortname: "test" #replace with your disqus comment short name
 
-#google analytics
-#google:
+google analytics
+google:
     #tracking-id: "" #paste your tracking id here
 gems:
   - jekyll-sitemap
