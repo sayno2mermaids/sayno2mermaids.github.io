@@ -337,8 +337,8 @@ footer .right{
 
 /* for circled image*/
 .circular {
-  width: 600px;
-  height: 600px;
+  width: 550px;
+  height: 550px;
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
