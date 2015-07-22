@@ -352,6 +352,8 @@ footer .right{
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
   margin-bottom: 15px;	
+  margin-right:10px;
+  margin-left:10px;
 }
 
 #title #sitename,.resume span,.resume h2 {
