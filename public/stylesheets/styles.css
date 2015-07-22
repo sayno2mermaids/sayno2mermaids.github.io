@@ -345,6 +345,15 @@ footer .right{
   margin-bottom: 15px;
 }
 
+.circular2 {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  margin-bottom: 15px;	
+}
+
 #title #sitename,.resume span,.resume h2 {
   color: #EC4E3B;
 }
