@@ -21,6 +21,7 @@ google:
     #tracking-id: "" #paste your tracking id here
 gems:
   - jekyll-sitemap
+  - jekyll-image-set
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
